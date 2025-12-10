@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "efHd3aDT5Iw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\EcommerceWebAPI.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\bogus\\35.6.5\\bogus.35.6.5.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\fluentassertions\\8.8.0\\fluentassertions.8.8.0.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\GunapatiKavya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
