@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
 [Route("api/[controller]")]
+//[Authorize(Policy = "AdminPolicy")]
+[Authorize(Roles ="Admin")]
 public class ProductController : ControllerBase
 {
     private readonly IProductService _productService;
@@ -16,7 +18,6 @@ public class ProductController : ControllerBase
     }
 
     [HttpPost]
-    [Authorize(Roles = "Admin")]
     public async Task<IActionResult> AddProduct(ProductResponse dto)
     {
         var result = await _productService.AddProductAsync(dto);
@@ -24,7 +25,6 @@ public class ProductController : ControllerBase
     }
 
     [HttpGet]
-    [AllowAnonymous]
     public async Task<IActionResult> GetAllProducts()
     {
         var result = await _productService.GetAllProductsAsync();
@@ -32,7 +32,6 @@ public class ProductController : ControllerBase
     }
 
     [HttpGet("{id}")]
-    [AllowAnonymous]
     public async Task<IActionResult> GetProductById(int id)
     {
         var result = await _productService.GetProductByIdAsync(id);

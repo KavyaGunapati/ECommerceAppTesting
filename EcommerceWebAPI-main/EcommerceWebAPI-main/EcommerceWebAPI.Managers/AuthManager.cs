@@ -46,18 +46,18 @@ namespace EcommerceWebAPI.Managers
             {
                 var userFound = await _userManager.FindByEmailAsync(dto.Email);
                 if (userFound == null) return new Result<AuthResponse> { Success = false, Message = ErrorConstants.UserNotFound };
-                var result = await _signInManager.PasswordSignInAsync(userFound, dto.Password, false, false);
-                if (!result.Succeeded)
+                var result = await _userManager.CheckPasswordAsync(userFound, dto.Password);
+                if (result==false)
                 {
                     
                     return new Result<AuthResponse> { Success = false, Message = ErrorConstants.InvalidCredentials };
                 }
                 var roles = await _userManager.GetRolesAsync(userFound);
                 var role=roles.FirstOrDefault()??"Customer";
-                var token = _tokenService.GenerateToken(userFound.UserName, role);
+                //var token = _tokenService.GenerateToken(userFound.UserName, role);
                 var response = new AuthResponse
                 {
-                    Token = token,
+                    //Token = token,
                     Email = userFound.Email,
                     Role = role,
                 };

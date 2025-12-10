@@ -393,3 +393,5 @@ C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAP
 C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\ECommerceWebAPI\obj\Debug\net8.0\ECommerceWebAPI.pdb
 C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\ECommerceWebAPI\obj\Debug\net8.0\ECommerceWebAPI.genruntimeconfig.cache
 C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\ECommerceWebAPI\obj\Debug\net8.0\ref\ECommerceWebAPI.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\ECommerceWebAPI\bin\Debug\net8.0\Bogus.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\ECommerceWebAPI\obj\Debug\net8.0\ECommerceWebAPI.sourcelink.json

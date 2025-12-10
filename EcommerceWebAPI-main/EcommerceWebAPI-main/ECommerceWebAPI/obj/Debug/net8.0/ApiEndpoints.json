@@ -38,6 +38,16 @@
   },
   {
     "ContainingType": "EcommerceWebAPI.Controllers.AuthController",
+    "Method": "LogOut",
+    "RelativePath": "api/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcommerceWebAPI.Controllers.AuthController",
     "Method": "RegisterAsync",
     "RelativePath": "api/Auth/register",
     "HttpMethod": "POST",

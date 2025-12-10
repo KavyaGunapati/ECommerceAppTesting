@@ -22,3 +22,4 @@ C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAP
 C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\EcommerceWebAPI.Models\obj\Debug\net8.0\refint\EcommerceWebAPI.Models.dll
 C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\EcommerceWebAPI.Models\obj\Debug\net8.0\EcommerceWebAPI.Models.pdb
 C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\EcommerceWebAPI.Models\obj\Debug\net8.0\ref\EcommerceWebAPI.Models.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\Testing\ECommerceAPITesting\EcommerceWebAPI-main\EcommerceWebAPI-main\EcommerceWebAPI.Models\obj\Debug\net8.0\EcommerceWebAPI.Models.sourcelink.json
