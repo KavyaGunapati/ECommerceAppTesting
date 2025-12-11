@@ -3,24 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E1A9519-5ADA-4B06-A665-068AA81D5B95}|..\\ManagerTests\\ManagerTests.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\managertests\\ordermanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D2B2464-9894-4590-9870-550BADA2CB81}|..\\EcommerceWebAPI.Managers\\EcommerceWebAPI.Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.managers\\inmermorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1A9519-5ADA-4B06-A665-068AA81D5B95}|..\\ManagerTests\\ManagerTests.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\managertests\\productmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D2B2464-9894-4590-9870-550BADA2CB81}|..\\EcommerceWebAPI.Managers\\EcommerceWebAPI.Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.managers\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F7DEA8F-DE8A-4555-8957-9AEDC5CDBEC4}|..\\EcommerceWebAPI.Models\\EcommerceWebAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.models\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0B44BA6-F739-4786-9423-CDD80096984B}|..\\EcommerceWebAPI.Interfaces\\EcommerceWebAPI.Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.interfaces\\imanager\\iinmemorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +17,35 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D2B2464-9894-4590-9870-550BADA2CB81}|..\\EcommerceWebAPI.Managers\\EcommerceWebAPI.Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.managers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1A9519-5ADA-4B06-A665-068AA81D5B95}|..\\ManagerTests\\ManagerTests.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\managertests\\productmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1A9519-5ADA-4B06-A665-068AA81D5B95}|..\\ManagerTests\\ManagerTests.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\managertests\\ordermanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DEA8F-DE8A-4555-8957-9AEDC5CDBEC4}|..\\EcommerceWebAPI.Models\\EcommerceWebAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.models\\dtos\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DEA8F-DE8A-4555-8957-9AEDC5CDBEC4}|..\\EcommerceWebAPI.Models\\EcommerceWebAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.models\\dtos\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B2464-9894-4590-9870-550BADA2CB81}|..\\EcommerceWebAPI.Managers\\EcommerceWebAPI.Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.managers\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DEA8F-DE8A-4555-8957-9AEDC5CDBEC4}|..\\EcommerceWebAPI.Models\\EcommerceWebAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.models\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DEA8F-DE8A-4555-8957-9AEDC5CDBEC4}|..\\EcommerceWebAPI.Models\\EcommerceWebAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.models\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FA5D5E-3CD1-4A33-8B50-55F2CA0122C1}|ECommerceWebAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5D55506-D0C8-49B1-96ED-05C109B6CA57}|..\\EcommerceWebAPI.DataAccess\\EcommerceWebAPI.DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\testing\\ecommerceapitesting\\ecommercewebapi-main\\ecommercewebapi-main\\ecommercewebapi.dataaccess\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -153,45 +168,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InMermoryCache.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\InMermoryCache.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Managers\\InMermoryCache.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\InMermoryCache.cs",
+              "RelativeToolTip": "..\\EcommerceWebAPI.Managers\\InMermoryCache.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:37:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInMemoryCache.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Interfaces\\IManager\\IInMemoryCache.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Interfaces\\IManager\\IInMemoryCache.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Interfaces\\IManager\\IInMemoryCache.cs",
+              "RelativeToolTip": "..\\EcommerceWebAPI.Interfaces\\IManager\\IInMemoryCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:31:57.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "OrderManagerTests.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ManagerTests\\OrderManagerTests.cs",
               "RelativeDocumentMoniker": "..\\ManagerTests\\OrderManagerTests.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ManagerTests\\OrderManagerTests.cs",
               "RelativeToolTip": "..\\ManagerTests\\OrderManagerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAqwNgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T10:00:57.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T10:09:31.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:54:25.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -199,25 +214,11 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T09:32:55.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:32:55.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthResponse.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
-              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
-              "RelativeToolTip": "..\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T09:05:30.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ProductManagerTests.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ManagerTests\\ProductManagerTests.cs",
               "RelativeDocumentMoniker": "..\\ManagerTests\\ProductManagerTests.cs",
@@ -230,13 +231,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\AuthManager.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Managers\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\AuthManager.cs",
+              "RelativeToolTip": "..\\EcommerceWebAPI.Managers\\AuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:12:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\ProductManager.cs",
               "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Managers\\ProductManager.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\ProductManager.cs",
               "RelativeToolTip": "..\\EcommerceWebAPI.Managers\\ProductManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswGEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T04:59:28.333Z",
               "EditorCaption": ""
@@ -244,32 +258,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:54:25.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Models\\DTOs\\Register.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\Register.cs",
+              "RelativeToolTip": "..\\EcommerceWebAPI.Models\\DTOs\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:20:52.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItemResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\OrderItemResponse.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Models\\DTOs\\OrderItemResponse.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\OrderItemResponse.cs",
+              "RelativeToolTip": "..\\EcommerceWebAPI.Models\\DTOs\\OrderItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:52:32.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Models\\DTOs\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\OrderResponse.cs",
+              "RelativeToolTip": "..\\EcommerceWebAPI.Models\\DTOs\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:59:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "..\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:05:30.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "OrderManager.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\OrderManager.cs",
               "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Managers\\OrderManager.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\OrderManager.cs",
               "RelativeToolTip": "..\\EcommerceWebAPI.Managers\\OrderManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswG8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T04:59:24.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthManager.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\AuthManager.cs",
-              "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Managers\\AuthManager.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Managers\\AuthManager.cs",
-              "RelativeToolTip": "..\\EcommerceWebAPI.Managers\\AuthManager.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAswD0AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T07:12:01.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T10:09:31.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.DataAccess\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "..\\EcommerceWebAPI.DataAccess\\Entities\\Product.cs",
@@ -281,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ProductResponse.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\EcommerceWebAPI.Models\\DTOs\\ProductResponse.cs",
               "RelativeDocumentMoniker": "..\\EcommerceWebAPI.Models\\DTOs\\ProductResponse.cs",
@@ -293,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\Register.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\Register.cs",
@@ -305,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "AuthManager.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Managers\\AuthManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Managers\\AuthManager.cs",
@@ -317,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Entities\\User.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Entities\\User.cs",
@@ -329,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
@@ -341,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "CreateOrder.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\CreateOrder.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\CreateOrder.cs",
@@ -353,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "OrderResponse.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\OrderResponse.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\OrderResponse.cs",
@@ -365,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "OrderItemResponse.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\OrderItemResponse.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\OrderItemResponse.cs",
@@ -377,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "ProductResponse.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\ProductResponse.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\ProductResponse.cs",
@@ -389,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Services\\OrderService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Services\\OrderService.cs",
@@ -401,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "OrderManager.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Managers\\OrderManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Managers\\OrderManager.cs",
@@ -413,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Services\\ProductService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Services\\ProductService.cs",
@@ -425,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Managers\\ProductManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Managers\\ProductManager.cs",
@@ -437,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Profiles\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "Profiles\\MappingProfiles.cs",
@@ -449,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Services\\AuthService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Services\\AuthService.cs",
@@ -461,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Models\\DTOs\\AuthResponse.cs",
@@ -473,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IService\\IAuthService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IService\\IAuthService.cs",
@@ -485,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Services\\TokenService.cs",
@@ -497,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IService\\ITokenService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IService\\ITokenService.cs",
@@ -509,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Testing\\ECommerceAPITesting\\EcommerceWebAPI-main\\EcommerceWebAPI-main\\ECommerceWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -521,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "IAuthManager.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IManager\\IAuthManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IManager\\IAuthManager.cs",
@@ -533,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IService\\IProductService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IService\\IProductService.cs",
@@ -545,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IService\\IOrderService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IService\\IOrderService.cs",
@@ -557,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "IProductManager.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IManager\\IProductManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IManager\\IProductManager.cs",
@@ -569,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "IOrderManager.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IManager\\IOrderManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IManager\\IOrderManager.cs",
@@ -581,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Repositories\\BaseRepository.cs",
@@ -593,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IRepository\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.Interfaces\\IRepository\\IGenericRepository.cs",
@@ -605,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Entities\\Product.cs",
@@ -617,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Entities\\OrderItem.cs",
@@ -629,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Entities\\Order.cs",
@@ -641,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Authentication\\ECommerceIdentityDb\\EcommerceWebAPI.DataAccess\\Context\\AppDbContext.cs",
